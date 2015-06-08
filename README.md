@@ -2,6 +2,7 @@ peda
 ====
 
 PEDA - Python Exploit Development Assistance for GDB
+http://security.cs.pub.ro/hexcellents/wiki/kb/toolset/peda
 
 ## Key Features:
 * Enhance the display of gdb: colorize and display disassembly codes, registers, memory information during debugging.
